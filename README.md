@@ -15,9 +15,6 @@ Unity 2020.3.18f1
 ## Zielplattform:
 WebGL Referenzauflösung (960x600)
 
-## WebGL Build:
-
-
 ## Visuelle Einblicke in das Projekt:
 ### Screenshots:
 ![Screenshot1](https://github.com/5ahmns-2324/20-Quiz/assets/91017666/fde6e1a0-fa4a-4338-854e-1595fbb9120f)
