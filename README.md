@@ -3,8 +3,11 @@ Projektbeschreibung:
 Erstellung eines Quizzes mit mindestens drei Antwortmöglichkeiten, einem Timer, einem Counter, Audio, farbiges Feedback, einem Weiter Button, der erst erscheint, wenn man die Frage richtig beantwortet hat, Mehrfachantwortmöglichkeiten, randomized Fragen, die Möglichkeit, die Fragen nicht randomized zu machen, randomized Antworten, Bildern und einem Endscreen.
 
 Entwicklungsplattform:
+
 Windows 10
+
 Visual Studio 2019
+
 Unity 2020.3.18f1
 
 Visuelle Einblicke in das Projekt:
