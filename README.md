@@ -1,32 +1,33 @@
 # 20-Quiz
 Projektbeschreibung:
-Dieses Projekt beinhaltet ein Quiz mit 10 Fragen, bei dem die Teilnehmer innerhalb von 15 Sekunden aus drei zufällig angeordneten Antwortmöglichkeiten wählen. Einige Fragen haben mehrere richtige Antworten und die Reihenfolge der Fragen und Antworten variiert jedes Mal.
+Erstellung eines Quizzes mit mindestens drei Antwortmöglichkeiten, einem Timer, einem Counter, Audio, farbiges Feedback, einem Weiter Button, der erst erscheint, wenn man die Frage richtig beantwortet hat, Mehrfachantwortmöglichkeiten, randomized Fragen, die Möglichkeit, die Fragen nicht randomized zu machen, randomized Antworten, Bildern und einem Endscreen.
+
 Entwicklungsplattform:
 Windows 10
 Visual Studio 2019
 Unity 2020.3.18f1
+
 Visuelle Einblicke in das Projekt:
+
 Video:
- sadsa.mp4 
-Screenshots: 1 2 3 4
+
+Screenshots:
+
 Drittmaterial:
-Background music: https://www.youtube.com/watch?v=BxarqHPmMIM
-Right Answer Sound: https://www.youtube.com/watch?v=ZvlvhIpcflA
-Wrong Answer Sound: https://www.youtube.com/watch?v=qeZpgFzmcDI
-Click Sound: https://www.youtube.com/watch?v=Uzj3CD0FUhA
-Win Music: https://www.youtube.com/watch?v=JkxMt3owocQ&list=LL&index=6
-Font: https://fonts.google.com/specimen/Montserrat
-Icons: https://www.flaticon.com/
+Right Answer Sound: https://youtu.be/0CqEKoy-fIQ?si=O6FEMqVbKLlClj5G
+Wrong Answer Sound: https://youtu.be/r0DoHizRzpI?si=F1QZnsJdI5FmAhG5
+Background Music: https://youtu.be/S8V5fySc_6o?si=Hg1BRb1u51UNIL0C
+
 Anforderungsliste
- Antwortmöglichkeiten
- Fragen
- Weiter Button
- Timer
- Counter
- farbiges Feedback
- Mehrfachauswahl der Antworten
- Randomized Questions Button
- randomisierte Antworten
- Bilder
- Endscreen
- Audio
+Antwortmöglichkeiten ✓
+Fragen ✓
+Weiter Button ✓
+Timer ✓
+Counter ✓
+farbiges Feedback ✓
+Mehrfachauswahl der Antworten X
+Randomized Questions Button ✓
+randomisierte Antworten ✓
+Bilder ✓
+Endscreen ✓
+Audio ✓
